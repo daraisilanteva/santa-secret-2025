@@ -1,4 +1,4 @@
- ... import random
+... import random
 ... import string
 ... import logging
 ... from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
